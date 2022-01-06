@@ -3,6 +3,8 @@ body{
     width: 90%;
     margin: auto;
 }
+
+
 .title{
     color: tomato;
 }
@@ -40,6 +42,7 @@ section{
 }
 .center{
     text-align: center;
+    color: aquamarine;
 }
 .cardsection{
     display: flex;
@@ -68,7 +71,6 @@ section{
 .card{
     text-align: center;
     padding: 5px;
-    
 }
 .one{
     background-color: lightblue;
@@ -102,4 +104,23 @@ section{
 }
 .mright{
     padding-right: 70px;
+}
+.members{
+    display: flex;
+}
+.footer{
+    background-color: black;
+    height: 100px;
+    text-align: center;
+}
+
+.footer p{
+    color: rgba(255, 255, 255, 0.507);
+}
+.prg{
+    color: azure;
+}
+.hero{
+    color: aqua;
+    
 }
