@@ -1,6 +1,6 @@
 body{
     font-family: 'Open Sans', sans-serif;
-    width: 80%;
+    width: 90%;
     margin: auto;
 }
 .title{
@@ -37,4 +37,62 @@ section{
 .half-width img{
     width: 100%;
     height: 500px;
+}
+.center{
+    text-align: center;
+}
+.cardsection{
+    display: flex;
+}
+
+
+.one img{
+    width: 100%;
+    height: 250px;
+}
+.two img{
+    width: 100%;
+    height: 250px;
+}
+.three img{
+    width: 100%;
+    height: 250px;
+}
+.cardsection div{
+    border: 3px solid gold;
+    margin: 2px 2px;
+    height: 444px;
+    border-radius: 10px;
+    margin-bottom: 70px;
+}
+.card{
+    text-align: center;
+    padding: 5px;
+    
+}
+.one{
+    background-color: lightblue;
+}
+.two{
+    background-color: lightpink;
+}
+.three{
+    background-color: lightyellow;
+}
+.halfwdth{
+    width: 50%;
+    margin-bottom: 50px;
+}
+.halfwdth img{
+    width: 90%;
+    height: 300px;
+}
+.hotpink{
+    color: hotpink;
+    font-weight: 1000;
+    font-size: 50px;
+}
+.gold{
+    color: red;
+    font-size: 60px;
 }
