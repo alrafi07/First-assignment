@@ -96,3 +96,10 @@ section{
     color: red;
     font-size: 60px;
 }
+.global{
+    color: indigo;
+    font-size: 30px;
+}
+.mright{
+    padding-right: 70px;
+}
